@@ -44,7 +44,7 @@ p:nth-of-type(2) {
     display: flex;
     justify-content: space-between;
 }
-
+/* p img, svg {} dry code the vertical align?*/
 .eth {
     color: hsl(178, 100%, 50%);
 }
