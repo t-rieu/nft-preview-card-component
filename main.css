@@ -35,7 +35,7 @@ body {
     opacity: 0;
 }
 
-div.overlay:hover {
+.overlay:hover {
     /* display: block; */
     display: flex;
     align-items: center;
