@@ -23,12 +23,12 @@ body {
 }
 
 .overlay {
-    display: none;
+    /* display: none; */
     position: absolute;
-    display: inline-block; 
+    /* display: inline-block;  */
     width: 305px; 
     height: 305px;
-    display: flex;
+    display: flex; /* to center the svg but opacity is 0 so kind of unnecessary? */
     align-items: center;
     justify-content: center; 
     border-radius: 0.5rem;
